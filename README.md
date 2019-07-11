@@ -2,8 +2,15 @@
 
 C++ 11 KISS principle networking library.
 
-[![Build Status](https://travis-ci.org/Lichtso/netLink.svg)](https://travis-ci.org/Lichtso/netLink)
-[![License](https://img.shields.io/badge/License-ZLIB-brightgreen.svg)](http://en.wikipedia.org/wiki/Zlib_License)
+Upstream at https://github.com/Lichtso/netLink
+
+This repo is meant for customization for use in project. We chose this solution as a thin and easilly 
+customizable 
+
+(**KISS principle**) abstraction layer over the platform-dependent TCP and UDP APIs for 
+a starting point.
+
+#### All links below refers to upstream sources.
 
 ## Features:
 * C++ 11
